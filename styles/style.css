@@ -154,9 +154,6 @@ hr{
     .courses{
         justify-items: center;
     }
-    .section-title{
-        margin-left: 60px;
-    } 
 }
 
 /* Tablet Devices */
@@ -172,6 +169,6 @@ hr{
     }
     .courses{
         grid-row-gap: 20px;
-        width: 80%;
+        
     }
 }
